@@ -7,7 +7,7 @@ body {
 
 body{
     background-color: rgb(255, 255, 255);
-    margin: 5em;
+    margin: 2em;
 }
 
 img {
@@ -101,3 +101,4 @@ footer {
     text-align: justify;
     border: 3px solid rgb(231, 228, 228);
 }
+
