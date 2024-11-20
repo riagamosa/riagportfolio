@@ -1,0 +1,76 @@
+:root {
+    font-size: 62.5%;
+}
+body {
+    font-size: 1.3rem;
+}
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@700&display=swap');
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+}
+
+img {
+    border:8px pink;padding: 3px; margin: 5px;
+
+}
+
+header,footer {
+    background-color: white; 
+    color: rgb(204, 142, 172);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+ul {
+    background-color: rgb(255, 255, 255);
+    padding: 1em;
+    font-size: 10px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content:center;
+    padding-left: 0;
+    text-decoration: none;
+    gap: 10px;
+    color: rgb(85, 70, 75);
+
+}
+
+nav a {
+    border-radius: 8px;
+    color: rgb(195, 81, 146);
+    padding: 1em;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: rgb(255, 236, 244);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Gabarito", "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    text-align: center;
+}
+
+h2, h3 { 
+    color: rgb(170, 49, 104);
+}
+
+p {
+    background: rgb(254, 232, 236);
+    padding: 20px;
+    margin: 0;
+    border: 8px;
+}
+
+footer {
+    padding: 10px 0;
+}
+
