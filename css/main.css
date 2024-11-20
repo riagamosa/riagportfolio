@@ -4,6 +4,7 @@
 body {
     font-size: 1.3rem;
 }
+
 @import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@700&display=swap');
 
 body{
@@ -52,7 +53,6 @@ nav a:hover {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Gabarito", "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic", Arial, sans-serif;
-    font-optical-sizing: auto;
     font-weight: 900;
     font-style: normal;
     text-align: center;
