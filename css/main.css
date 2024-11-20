@@ -1,15 +1,16 @@
 :root {
     font-size: 62.5%;
 }
+
 body {
     font-size: 1.3rem;
-}
-
-body{
     background-color: rgb(255, 255, 255);
     margin: 2em;
 }
 
+/*-------------
+Logo and Header
+--------------*/
 img {
     padding: 5px;
 }
@@ -88,6 +89,9 @@ footer {
     text-align: center;
 }
 
+/*---------
+About Page
+----------*/
 #about {
     background: rgb(254, 232, 236);
     padding: 20px;
@@ -101,4 +105,3 @@ footer {
     text-align: justify;
     border: 3px solid rgb(231, 228, 228);
 }
-
