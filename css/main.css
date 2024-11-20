@@ -12,8 +12,7 @@ body{
 }
 
 img {
-    border:8px pink;padding: 3px; margin: 5px;
-
+    padding: 5px;
 }
 
 header,footer {
@@ -87,12 +86,11 @@ footer {
 
 #schoolemail {
     background: rgb(254, 232, 236);
-    padding: 20px;
-    margin: 0;
-    border: 8px;
-    text-align: justify;
+    padding: 10px;
+    text-align: center;
 }
 
-#links {
-    border: 3px solid rgb(231, 228, 228);
+#about {
+    background: rgb(254, 232, 236);
+    padding: 20px;
 }
